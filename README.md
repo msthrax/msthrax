@@ -22,8 +22,8 @@ My name is Mohammad and I love coding ...
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ##  &#x1f4c8; GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimiology&show_icons=true&theme=tokyonight)
-![](https://activity-graph.herokuapp.com/graph?username=nimiology&theme=react-dark&area=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msthrax&show_icons=true&theme=tokyonight)
+![](https://activity-graph.herokuapp.com/graph?username=msthrax&theme=react-dark&area=true)
 
 
 
